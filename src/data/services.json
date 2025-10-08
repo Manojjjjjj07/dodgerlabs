@@ -1,0 +1,77 @@
+{
+    "services": [
+      {
+        "id": "ai-solutions",
+        "title": "AI Solutions",
+        "icon": "Brain",
+        "description": "Custom machine learning models, natural language processing, and computer vision solutions tailored to your business needs.",
+        "features": [
+          "Machine Learning Models",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Predictive Analytics"
+        ]
+      },
+      {
+        "id": "web-development",
+        "title": "Web Development",
+        "icon": "Globe",
+        "description": "High-performance web applications built with modern frameworks, optimized for speed, scalability, and user experience.",
+        "features": [
+          "React & Next.js",
+          "Node.js Backend",
+          "Progressive Web Apps",
+          "E-commerce Solutions"
+        ]
+      },
+      {
+        "id": "mobile-apps",
+        "title": "Mobile Apps",
+        "icon": "Smartphone",
+        "description": "Native and cross-platform mobile applications that deliver seamless experiences across iOS and Android devices.",
+        "features": [
+          "React Native",
+          "iOS & Android",
+          "Real-time Features",
+          "App Store Optimization"
+        ]
+      },
+      {
+        "id": "ui-ux-design",
+        "title": "UI/UX Design",
+        "icon": "Palette",
+        "description": "Intent-driven design that prioritizes user needs, creating intuitive interfaces with stunning visual identities.",
+        "features": [
+          "User Research",
+          "Wireframing & Prototyping",
+          "Visual Design",
+          "Design Systems"
+        ]
+      },
+      {
+        "id": "cloud-deployment",
+        "title": "Cloud & Deployment",
+        "icon": "Cloud",
+        "description": "Scalable cloud infrastructure with high availability, zero-downtime deployments, and 24/7 monitoring.",
+        "features": [
+          "AWS & Azure",
+          "Docker & Kubernetes",
+          "CI/CD Pipelines",
+          "DevOps Consulting"
+        ]
+      },
+      {
+        "id": "consulting",
+        "title": "Tech Consulting",
+        "icon": "Users",
+        "description": "Strategic technology consulting to help you make informed decisions and build scalable, future-proof systems.",
+        "features": [
+          "Technology Audits",
+          "Architecture Design",
+          "Team Training",
+          "Digital Transformation"
+        ]
+      }
+    ]
+  }
+  

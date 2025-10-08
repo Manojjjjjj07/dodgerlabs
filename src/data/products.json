@@ -1,0 +1,44 @@
+{
+    "projects": [
+      {
+        "id": "neural-insights",
+        "title": "Neural Insights",
+        "category": "AI Platform",
+        "description": "An AI-powered analytics platform that provides real-time insights from unstructured data using advanced NLP and machine learning.",
+        "image": "/images/projects/neural-insights.jpg",
+        "tags": ["AI", "Machine Learning", "Analytics"],
+        "tech": ["Python", "TensorFlow", "React", "Node.js"],
+        "year": "2024",
+        "featured": true,
+        "challenge": "Processing millions of documents in real-time while maintaining accuracy.",
+        "solution": "Implemented distributed computing with optimized ML models achieving 95% accuracy.",
+        "results": "Reduced analysis time by 80% and increased decision-making speed by 3x."
+      },
+      {
+        "id": "streamline-commerce",
+        "title": "StreamLine Commerce",
+        "category": "E-commerce",
+        "description": "A next-generation e-commerce platform with AI-powered recommendations and seamless checkout experience.",
+        "image": "/images/projects/streamline.jpg",
+        "tags": ["Web", "E-commerce", "AI"],
+        "tech": ["Next.js", "Node.js", "PostgreSQL", "Stripe"],
+        "year": "2024",
+        "featured": true,
+        "challenge": "Building a scalable platform handling 10k+ concurrent users.",
+        "solution": "Microservices architecture with CDN optimization and caching strategies.",
+        "results": "99.9% uptime with 40% increase in conversion rates."
+      },
+      {
+        "id": "healthpulse",
+        "title": "HealthPulse",
+        "category": "Healthcare",
+        "description": "A comprehensive telemedicine platform connecting patients with healthcare providers through video consultations and AI triage.",
+        "image": "/images/projects/healthpulse.jpg",
+        "tags": ["Mobile", "Healthcare", "AI"],
+        "tech": ["React Native", "WebRTC", "Firebase", "TensorFlow"],
+        "year": "2023",
+        "featured": true
+      }
+    ]
+  }
+  
